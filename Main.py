@@ -7,5 +7,5 @@ Created on Sep 2, 2021
 if __name__ == '__main__':
     pass
 
-print("Hello World")
+print("Hello World2")
 input()
