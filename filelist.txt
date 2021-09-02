@@ -1,3 +1,2 @@
-directory-of-program
-├── filelist.txt
-└── Main.py
+filelist.txt
+Main.py
